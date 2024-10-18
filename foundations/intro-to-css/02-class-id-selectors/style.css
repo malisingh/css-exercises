@@ -1,0 +1,21 @@
+/* styles.css*/
+
+.odd {
+  background-color: rgb(197, 128, 128);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num2 {
+  color: blue;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#num4 {
+  font-weight: bold;
+  background-color: rgb(130, 239, 83);
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
